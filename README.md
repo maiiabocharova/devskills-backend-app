@@ -1,4 +1,7 @@
-# Lookup Service - Level 2
+# My implementation of the FastAPI backend app.
+
+
+## Task & descrition: Lookup Service - Level 2
 
 Your task is to build a backend service that implements the [Lookup Service REST API](https://infra.devskills.app/lookup/api/1.0.0) and integrates with the [Credit Data REST API](https://infra.devskills.app/credit-data/api/1.0.0) to aggregate historical credit data.
 
